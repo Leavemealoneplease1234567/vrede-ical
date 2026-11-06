@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:aae7364c07a317c1@vrede-ical
-DTSTAMP:20261104T010631Z
+DTSTAMP:20261106T130816Z
 DTSTART:20261103T180000Z
 DTEND:20261103T203000Z
 SUMMARY:Actiemeeting tegen militarisering in Gent
@@ -36,7 +36,7 @@ CATEGORIES:Vorming
 END:VEVENT
 BEGIN:VEVENT
 UID:53a277a2f51a8515@vrede-ical
-DTSTAMP:20261104T010631Z
+DTSTAMP:20261106T130816Z
 DTSTART:20261104T180000Z
 DTEND:20261104T200000Z
 SUMMARY:Actiemeeting tegen militarisering in Antwerpen
@@ -52,7 +52,7 @@ CATEGORIES:Vorming
 END:VEVENT
 BEGIN:VEVENT
 UID:357ae37196a961c3@vrede-ical
-DTSTAMP:20261104T010631Z
+DTSTAMP:20261106T130816Z
 DTSTART:20261105T190000Z
 DTEND:20261105T210000Z
 SUMMARY:Groene Loper: Earth's greatest enemy
@@ -82,7 +82,7 @@ CATEGORIES:Filmvertoning
 END:VEVENT
 BEGIN:VEVENT
 UID:889f0c87a07f0d6a@vrede-ical
-DTSTAMP:20261104T010631Z
+DTSTAMP:20261106T130816Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261219
 SUMMARY:Expo: 40 jaar Vredeshuis Aalst
@@ -107,7 +107,7 @@ CATEGORIES:Tentoonstelling
 END:VEVENT
 BEGIN:VEVENT
 UID:d807ed3e3f2c71e6@vrede-ical
-DTSTAMP:20261104T010631Z
+DTSTAMP:20261106T130816Z
 DTSTART:20261108T153000Z
 DTEND:20261108T171000Z
 SUMMARY:Film: Les Recommencements
@@ -133,7 +133,7 @@ CATEGORIES:Filmvertoning
 END:VEVENT
 BEGIN:VEVENT
 UID:bf2227f55584f64e@vrede-ical
-DTSTAMP:20261104T010631Z
+DTSTAMP:20261106T130816Z
 DTSTART:20261110T180000Z
 DTEND:20261110T200000Z
 SUMMARY:Blood money: The Western arms industry and Palestine
@@ -158,7 +158,7 @@ CATEGORIES:Lezing
 END:VEVENT
 BEGIN:VEVENT
 UID:59f3b40a7cb787ad@vrede-ical
-DTSTAMP:20261104T010631Z
+DTSTAMP:20261106T130816Z
 DTSTART:20261112T173000Z
 DTEND:20261112T210000Z
 SUMMARY:Boekvoorstelling: Op een dag zal ik dit allemaal opschrijven
@@ -184,7 +184,7 @@ CATEGORIES:Boekvoorstelling
 END:VEVENT
 BEGIN:VEVENT
 UID:ab9b6e3096246d42@vrede-ical
-DTSTAMP:20261104T010631Z
+DTSTAMP:20261106T130816Z
 DTSTART:20261114T090000Z
 DTEND:20261114T150000Z
 SUMMARY:Activistendag Palestina Solidariteit
@@ -215,7 +215,7 @@ CATEGORIES:Vorming
 END:VEVENT
 BEGIN:VEVENT
 UID:6e0740fce6a75600@vrede-ical
-DTSTAMP:20261104T010631Z
+DTSTAMP:20261106T130816Z
 DTSTART:20261117T180000Z
 DTEND:20261117T200000Z
 SUMMARY:Mondiaal Café: Oost-Congo - rijkdom\, conflict en veerkracht
@@ -259,7 +259,7 @@ CATEGORIES:Panelgesprek
 END:VEVENT
 BEGIN:VEVENT
 UID:44ee5c9a8191d4a0@vrede-ical
-DTSTAMP:20261104T010631Z
+DTSTAMP:20261106T130816Z
 DTSTART:20261118T183000Z
 DTEND:20261118T203000Z
 SUMMARY:Boekvoorstelling: Tussen giganten\, een kantelende wereldorde
@@ -279,7 +279,7 @@ CATEGORIES:Boekvoorstelling
 END:VEVENT
 BEGIN:VEVENT
 UID:e2f307db83af09db@vrede-ical
-DTSTAMP:20261104T010631Z
+DTSTAMP:20261106T130816Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Youth International Strike
@@ -301,7 +301,7 @@ CATEGORIES:Actie
 END:VEVENT
 BEGIN:VEVENT
 UID:0654ac6c9c2b8221@vrede-ical
-DTSTAMP:20261104T010631Z
+DTSTAMP:20261106T130816Z
 DTSTART:20261121T210000Z
 DTEND:20261121T220000Z
 SUMMARY:Europa herontdekt de geopolitiek
@@ -326,7 +326,7 @@ CATEGORIES:Panelgesprek
 END:VEVENT
 BEGIN:VEVENT
 UID:3fbcafc1defea996@vrede-ical
-DTSTAMP:20261104T010631Z
+DTSTAMP:20261106T130816Z
 DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
 SUMMARY:Warfare destroys\, welfare protects
@@ -388,7 +388,7 @@ CATEGORIES:Actie
 END:VEVENT
 BEGIN:VEVENT
 UID:4035793aefbd5541@vrede-ical
-DTSTAMP:20261104T010631Z
+DTSTAMP:20261106T130816Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Nationale vakbondsbetoging
@@ -409,7 +409,7 @@ CATEGORIES:Actie
 END:VEVENT
 BEGIN:VEVENT
 UID:9fce0141a45ce32a@vrede-ical
-DTSTAMP:20261104T010631Z
+DTSTAMP:20261106T130816Z
 DTSTART:20261124T180000Z
 DTEND:20261124T200000Z
 SUMMARY:Vredescafé: Het militair gebruik van AI
@@ -449,7 +449,7 @@ CATEGORIES:Panelgesprek
 END:VEVENT
 BEGIN:VEVENT
 UID:501a2c804837497b@vrede-ical
-DTSTAMP:20261104T010631Z
+DTSTAMP:20261106T130816Z
 DTSTART:20261126T183000Z
 DTEND:20261126T203000Z
 SUMMARY:Lezing over militarisering
@@ -470,7 +470,7 @@ CATEGORIES:Lezing
 END:VEVENT
 BEGIN:VEVENT
 UID:4bdb806a6e4a0df4@vrede-ical
-DTSTAMP:20261104T010631Z
+DTSTAMP:20261106T130816Z
 DTSTART:20261127T090000Z
 DTEND:20261127T110000Z
 SUMMARY:Vuurwerk: In actie tegen de Vlaamse besparingen
@@ -501,7 +501,7 @@ CATEGORIES:Actie
 END:VEVENT
 BEGIN:VEVENT
 UID:cc550649b43de82d@vrede-ical
-DTSTAMP:20261104T010631Z
+DTSTAMP:20261106T130816Z
 DTSTART:20261129T140000Z
 DTEND:20261129T160000Z
 SUMMARY:Choose Solidarity: Mensen boven grenzen
@@ -549,7 +549,7 @@ CATEGORIES:Evenement
 END:VEVENT
 BEGIN:VEVENT
 UID:5ca3fe126c841a5a@vrede-ical
-DTSTAMP:20261104T010631Z
+DTSTAMP:20261106T130816Z
 DTSTART:20261216T190000Z
 DTEND:20261216T210000Z
 SUMMARY:Grenzeloos: Grondrechten in gevaar
@@ -599,8 +599,45 @@ LOCATION:Amor / De Roma\, Turnhoutsebaan 288\, 2140 Borgerhout\, België
 CATEGORIES:Panelgesprek
 END:VEVENT
 BEGIN:VEVENT
+UID:1d73488e09b2133b@vrede-ical
+DTSTAMP:20261106T130816Z
+DTSTART:20261218T190000Z
+DTEND:20261218T210000Z
+SUMMARY:Dr. Strangelove or: How I Learned to Stop Worrying and Love The Bom
+ b
+DESCRIPTION:De film wordt om 19u ingeleid en geactualiseerd door Ludo De Br
+ abander\, woordvoerder van Vrede vzw.\nNa de film is er ruimte voor een na
+ bespreking over de geopolitieke situatie vandaag.\nIn Dr. Strangelove or: 
+ How I Learned to Stop Worrying and Love the Bomb (1964) ontleedt Stanley K
+ ubrick met zwarte humor en vlijmscherpe satire de absurditeit van de nucle
+ aire wapenwedloop. Wanneer een Amerikaanse generaal op eigen initiatief ee
+ n nucleaire aanval op de Sovjet-Unie beveelt\, dreigt een militaire operat
+ ie uit te monden in een wereldwijde catastrofe. Terwijl politici en milita
+ iren verwoed proberen de situatie onder controle te krijgen\, legt Kubrick
+  de irrationaliteit bloot van een systeem waarin de vernietiging van de we
+ reld een steeds reëler scenario wordt. Peter Sellers schittert in maar li
+ efst drie rollen in deze klassieker uit de Koude Oorlog\, die nu te zien i
+ s in een 4K-restauratie.\nDe vertoning vindt plaats in het kader van Info~
+ Angel: veertig jaar Vredeshuis Aalst\, een archiefpresentatie die terugbli
+ kt op de oprichting van het Vredeshuis in 1986. Die ontstond tegen de acht
+ ergrond van de Koude Oorlog\, de plaatsing van kernraketten in Europa en d
+ e massale vredesbetogingen van de jaren tachtig. Veertig jaar later zijn d
+ e vragen die aan de basis lagen van de vredesbeweging opnieuw bijzonder ac
+ tueel. Kubricks film herinnert ons eraan hoe dun de grens kan zijn tussen 
+ militaire logica en totale waanzin\, en hoe de dreiging van een nucleaire 
+ confrontatie deel uitmaakt van een politieke werkelijkheid die nooit helem
+ aal achter ons ligt.\nHier meer info.\n\nOrganisatie: Vredeshuis Aalst\n\n
+ https://vrede.be/nl/kalender/dr-strangelove-or-how-i-learned-stop-worrying
+ -and-love-bomb
+URL:https://vrede.be/nl/kalender/dr-strangelove-or-how-i-learned-stop-worry
+ ing-and-love-bomb
+LOCATION:NW\, Open Huis voor Hedendaagse Kunst en Film\, Houtkaai 15\, 9300
+  Aalst\, België
+CATEGORIES:Filmvertoning
+END:VEVENT
+BEGIN:VEVENT
 UID:91f3272b0d0e5276@vrede-ical
-DTSTAMP:20261104T010631Z
+DTSTAMP:20261106T130816Z
 DTSTART:20270123T180000Z
 DTEND:20270123T210000Z
 SUMMARY:Trefdag Vrede vzw 2027
