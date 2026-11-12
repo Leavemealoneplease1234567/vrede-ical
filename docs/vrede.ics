@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:aae7364c07a317c1@vrede-ical
-DTSTAMP:20261110T185732Z
+DTSTAMP:20261112T072408Z
 DTSTART:20261103T180000Z
 DTEND:20261103T203000Z
 SUMMARY:Actiemeeting tegen militarisering in Gent
@@ -36,7 +36,7 @@ CATEGORIES:Vorming
 END:VEVENT
 BEGIN:VEVENT
 UID:53a277a2f51a8515@vrede-ical
-DTSTAMP:20261110T185732Z
+DTSTAMP:20261112T072408Z
 DTSTART:20261104T180000Z
 DTEND:20261104T200000Z
 SUMMARY:Actiemeeting tegen militarisering in Antwerpen
@@ -52,7 +52,7 @@ CATEGORIES:Vorming
 END:VEVENT
 BEGIN:VEVENT
 UID:357ae37196a961c3@vrede-ical
-DTSTAMP:20261110T185732Z
+DTSTAMP:20261112T072408Z
 DTSTART:20261105T190000Z
 DTEND:20261105T210000Z
 SUMMARY:Groene Loper: Earth's greatest enemy
@@ -82,7 +82,7 @@ CATEGORIES:Filmvertoning
 END:VEVENT
 BEGIN:VEVENT
 UID:889f0c87a07f0d6a@vrede-ical
-DTSTAMP:20261110T185732Z
+DTSTAMP:20261112T072408Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261219
 SUMMARY:Expo: 40 jaar Vredeshuis Aalst
@@ -107,7 +107,7 @@ CATEGORIES:Tentoonstelling
 END:VEVENT
 BEGIN:VEVENT
 UID:d807ed3e3f2c71e6@vrede-ical
-DTSTAMP:20261110T185732Z
+DTSTAMP:20261112T072408Z
 DTSTART:20261108T153000Z
 DTEND:20261108T171000Z
 SUMMARY:Film: Les Recommencements
@@ -133,7 +133,7 @@ CATEGORIES:Filmvertoning
 END:VEVENT
 BEGIN:VEVENT
 UID:bf2227f55584f64e@vrede-ical
-DTSTAMP:20261110T185732Z
+DTSTAMP:20261112T072408Z
 DTSTART:20261110T180000Z
 DTEND:20261110T200000Z
 SUMMARY:Blood money: The Western arms industry and Palestine
@@ -158,7 +158,7 @@ CATEGORIES:Lezing
 END:VEVENT
 BEGIN:VEVENT
 UID:59f3b40a7cb787ad@vrede-ical
-DTSTAMP:20261110T185732Z
+DTSTAMP:20261112T072408Z
 DTSTART:20261112T173000Z
 DTEND:20261112T210000Z
 SUMMARY:Boekvoorstelling: Op een dag zal ik dit allemaal opschrijven
@@ -184,7 +184,7 @@ CATEGORIES:Boekvoorstelling
 END:VEVENT
 BEGIN:VEVENT
 UID:ab9b6e3096246d42@vrede-ical
-DTSTAMP:20261110T185732Z
+DTSTAMP:20261112T072408Z
 DTSTART:20261114T090000Z
 DTEND:20261114T150000Z
 SUMMARY:Activistendag Palestina Solidariteit
@@ -215,7 +215,7 @@ CATEGORIES:Vorming
 END:VEVENT
 BEGIN:VEVENT
 UID:6e0740fce6a75600@vrede-ical
-DTSTAMP:20261110T185732Z
+DTSTAMP:20261112T072408Z
 DTSTART:20261117T180000Z
 DTEND:20261117T200000Z
 SUMMARY:Mondiaal Café: Oost-Congo - rijkdom\, conflict en veerkracht
@@ -259,7 +259,7 @@ CATEGORIES:Panelgesprek
 END:VEVENT
 BEGIN:VEVENT
 UID:44ee5c9a8191d4a0@vrede-ical
-DTSTAMP:20261110T185732Z
+DTSTAMP:20261112T072408Z
 DTSTART:20261118T183000Z
 DTEND:20261118T203000Z
 SUMMARY:Boekvoorstelling: Tussen giganten\, een kantelende wereldorde
@@ -279,7 +279,7 @@ CATEGORIES:Boekvoorstelling
 END:VEVENT
 BEGIN:VEVENT
 UID:e2f307db83af09db@vrede-ical
-DTSTAMP:20261110T185732Z
+DTSTAMP:20261112T072408Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Youth International Strike
@@ -290,18 +290,21 @@ DESCRIPTION:Regeringen en elites geven miljarden uit aan wapens\, terwijl o
  erzet tegen dit systeem en roepen op om van 20 november 2026 een breed ged
  ragen dag van staking en actie te maken.\nZe roepen alle jongeren\, midden
  veldorganisaties en vakbonden op om zich bij deze oproep aan te sluiten en
-  samen in actie te komen.\nMeer informatie op de Instagrampagina van het c
- ollectief.\nOp zondag 22 november organiseert het platform Stop Militarise
- ring een nationale manifestatie in het kader van deze oproep. Meer informa
- tie vind je hier.\n\nOrganisatie: Youth Strike\n\nhttps://vrede.be/nl/kale
- nder/youth-international-strike
+  samen in actie te komen.\nMeer informatie op de Instagrampagina van Youth
+  Strike.\nActies in BelgiëInformatie over concrete acties op 20 november 
+ kan je terugvinden bij het platform Service for Peace via de website of de
+  Instagrampagina.\nOp zondag 22 november organiseert het platform Stop Mil
+ itarisering een nationale manifestatie in het kader van deze oproep. Meer 
+ informatie vind je hier.\n\nOrganisatie: Youth Strike\, Service for Peace 
+ en Stop Militarisering\n\nhttps://vrede.be/nl/kalender/youth-international
+ -strike
 URL:https://vrede.be/nl/kalender/youth-international-strike
-LOCATION:België
+LOCATION:Verschillende locaties\, België
 CATEGORIES:Actie
 END:VEVENT
 BEGIN:VEVENT
 UID:0654ac6c9c2b8221@vrede-ical
-DTSTAMP:20261110T185732Z
+DTSTAMP:20261112T072408Z
 DTSTART:20261121T210000Z
 DTEND:20261121T220000Z
 SUMMARY:Europa herontdekt de geopolitiek
@@ -326,7 +329,7 @@ CATEGORIES:Panelgesprek
 END:VEVENT
 BEGIN:VEVENT
 UID:3fbcafc1defea996@vrede-ical
-DTSTAMP:20261110T185732Z
+DTSTAMP:20261112T072408Z
 DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
 SUMMARY:Warfare destroys\, welfare protects
@@ -388,7 +391,7 @@ CATEGORIES:Actie
 END:VEVENT
 BEGIN:VEVENT
 UID:4035793aefbd5541@vrede-ical
-DTSTAMP:20261110T185732Z
+DTSTAMP:20261112T072408Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Nationale vakbondsbetoging
@@ -409,7 +412,7 @@ CATEGORIES:Actie
 END:VEVENT
 BEGIN:VEVENT
 UID:9fce0141a45ce32a@vrede-ical
-DTSTAMP:20261110T185732Z
+DTSTAMP:20261112T072408Z
 DTSTART:20261124T180000Z
 DTEND:20261124T200000Z
 SUMMARY:Vredescafé: Het militair gebruik van AI
@@ -449,7 +452,7 @@ CATEGORIES:Panelgesprek
 END:VEVENT
 BEGIN:VEVENT
 UID:501a2c804837497b@vrede-ical
-DTSTAMP:20261110T185732Z
+DTSTAMP:20261112T072408Z
 DTSTART:20261126T183000Z
 DTEND:20261126T203000Z
 SUMMARY:Lezing over militarisering
@@ -470,7 +473,7 @@ CATEGORIES:Lezing
 END:VEVENT
 BEGIN:VEVENT
 UID:4bdb806a6e4a0df4@vrede-ical
-DTSTAMP:20261110T185732Z
+DTSTAMP:20261112T072408Z
 DTSTART:20261127T090000Z
 DTEND:20261127T110000Z
 SUMMARY:Vuurwerk: In actie tegen de Vlaamse besparingen
@@ -501,7 +504,7 @@ CATEGORIES:Actie
 END:VEVENT
 BEGIN:VEVENT
 UID:cc550649b43de82d@vrede-ical
-DTSTAMP:20261110T185732Z
+DTSTAMP:20261112T072408Z
 DTSTART:20261129T140000Z
 DTEND:20261129T160000Z
 SUMMARY:Choose Solidarity: Mensen boven grenzen
@@ -549,7 +552,7 @@ CATEGORIES:Evenement
 END:VEVENT
 BEGIN:VEVENT
 UID:5ca3fe126c841a5a@vrede-ical
-DTSTAMP:20261110T185732Z
+DTSTAMP:20261112T072408Z
 DTSTART:20261216T190000Z
 DTEND:20261216T210000Z
 SUMMARY:Grenzeloos: Grondrechten in gevaar
@@ -600,7 +603,7 @@ CATEGORIES:Panelgesprek
 END:VEVENT
 BEGIN:VEVENT
 UID:1d73488e09b2133b@vrede-ical
-DTSTAMP:20261110T185732Z
+DTSTAMP:20261112T072408Z
 DTSTART:20261218T190000Z
 DTEND:20261218T210000Z
 SUMMARY:Dr. Strangelove or: How I Learned to Stop Worrying and Love The Bom
@@ -637,7 +640,7 @@ CATEGORIES:Filmvertoning
 END:VEVENT
 BEGIN:VEVENT
 UID:91f3272b0d0e5276@vrede-ical
-DTSTAMP:20261110T185732Z
+DTSTAMP:20261112T072408Z
 DTSTART:20270123T180000Z
 DTEND:20270123T210000Z
 SUMMARY:Trefdag Vrede vzw 2027
@@ -646,11 +649,11 @@ DESCRIPTION:In 2027 bestaat Vrede vzw 78 jaar! Op zaterdag 23 januari nodig
  ge trefdag in onze thuishaven\, De Expeditie. Verwacht een avond vol boeie
  nde sprekers\, muzikale intermezzo’s en heerlijke hapjes en drankjes. Sa
  men heffen we het glas op het nieuwe jaar!\nBinnenkort meer informatie ove
- r het programma.\nPraktischWaar? De Expeditie\, Padoekstraat 3\, GentWanne
- er? Zaterdag 23 januari 2027\, om 19u\n\nhttps://vrede.be/nl/kalender/tref
- dag-vrede-vzw-2027
+ r het programma.\nPraktischWaar? De Expeditie\, Windvaanplein 6\, GentWann
+ eer? Zaterdag 23 januari 2027\, om 19u\n\nhttps://vrede.be/nl/kalender/tre
+ fdag-vrede-vzw-2027
 URL:https://vrede.be/nl/kalender/trefdag-vrede-vzw-2027
-LOCATION:De Expeditie\, Padoekstraat 3\, 9000 Gent\, België
+LOCATION:De Expeditie\, Windvaanplein 6\, 9000 Gent\, België
 CATEGORIES:Evenement
 END:VEVENT
 END:VCALENDAR
