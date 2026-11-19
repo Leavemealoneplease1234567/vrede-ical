@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:aae7364c07a317c1@vrede-ical
-DTSTAMP:20261118T190004Z
+DTSTAMP:20261119T011725Z
 DTSTART:20261103T180000Z
 DTEND:20261103T203000Z
 SUMMARY:Actiemeeting tegen militarisering in Gent
@@ -36,7 +36,7 @@ CATEGORIES:Vorming
 END:VEVENT
 BEGIN:VEVENT
 UID:53a277a2f51a8515@vrede-ical
-DTSTAMP:20261118T190004Z
+DTSTAMP:20261119T011725Z
 DTSTART:20261104T180000Z
 DTEND:20261104T200000Z
 SUMMARY:Actiemeeting tegen militarisering in Antwerpen
@@ -52,7 +52,7 @@ CATEGORIES:Vorming
 END:VEVENT
 BEGIN:VEVENT
 UID:357ae37196a961c3@vrede-ical
-DTSTAMP:20261118T190004Z
+DTSTAMP:20261119T011725Z
 DTSTART:20261105T190000Z
 DTEND:20261105T210000Z
 SUMMARY:Groene Loper: Earth's greatest enemy
@@ -82,7 +82,7 @@ CATEGORIES:Filmvertoning
 END:VEVENT
 BEGIN:VEVENT
 UID:889f0c87a07f0d6a@vrede-ical
-DTSTAMP:20261118T190004Z
+DTSTAMP:20261119T011725Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261219
 SUMMARY:Expo: 40 jaar Vredeshuis Aalst
@@ -107,7 +107,7 @@ CATEGORIES:Tentoonstelling
 END:VEVENT
 BEGIN:VEVENT
 UID:d807ed3e3f2c71e6@vrede-ical
-DTSTAMP:20261118T190004Z
+DTSTAMP:20261119T011725Z
 DTSTART:20261108T153000Z
 DTEND:20261108T171000Z
 SUMMARY:Film: Les Recommencements
@@ -133,7 +133,7 @@ CATEGORIES:Filmvertoning
 END:VEVENT
 BEGIN:VEVENT
 UID:bf2227f55584f64e@vrede-ical
-DTSTAMP:20261118T190004Z
+DTSTAMP:20261119T011725Z
 DTSTART:20261110T180000Z
 DTEND:20261110T200000Z
 SUMMARY:Blood money: The Western arms industry and Palestine
@@ -158,7 +158,7 @@ CATEGORIES:Lezing
 END:VEVENT
 BEGIN:VEVENT
 UID:59f3b40a7cb787ad@vrede-ical
-DTSTAMP:20261118T190004Z
+DTSTAMP:20261119T011725Z
 DTSTART:20261112T173000Z
 DTEND:20261112T210000Z
 SUMMARY:Boekvoorstelling: Op een dag zal ik dit allemaal opschrijven
@@ -184,7 +184,7 @@ CATEGORIES:Boekvoorstelling
 END:VEVENT
 BEGIN:VEVENT
 UID:ab9b6e3096246d42@vrede-ical
-DTSTAMP:20261118T190004Z
+DTSTAMP:20261119T011725Z
 DTSTART:20261114T090000Z
 DTEND:20261114T150000Z
 SUMMARY:Activistendag Palestina Solidariteit
@@ -215,7 +215,7 @@ CATEGORIES:Vorming
 END:VEVENT
 BEGIN:VEVENT
 UID:88793fb97b795d5d@vrede-ical
-DTSTAMP:20261118T190004Z
+DTSTAMP:20261119T011725Z
 DTSTART:20261117T100000Z
 DTEND:20261117T110000Z
 SUMMARY:De jeugd laat van zich horen
@@ -235,7 +235,7 @@ CATEGORIES:Actie
 END:VEVENT
 BEGIN:VEVENT
 UID:6e0740fce6a75600@vrede-ical
-DTSTAMP:20261118T190004Z
+DTSTAMP:20261119T011725Z
 DTSTART:20261117T180000Z
 DTEND:20261117T200000Z
 SUMMARY:Mondiaal Café: Oost-Congo - rijkdom\, conflict en veerkracht
@@ -279,7 +279,7 @@ CATEGORIES:Panelgesprek
 END:VEVENT
 BEGIN:VEVENT
 UID:44ee5c9a8191d4a0@vrede-ical
-DTSTAMP:20261118T190004Z
+DTSTAMP:20261119T011725Z
 DTSTART:20261118T183000Z
 DTEND:20261118T203000Z
 SUMMARY:Boekvoorstelling: Tussen giganten\, een kantelende wereldorde
@@ -299,7 +299,7 @@ CATEGORIES:Boekvoorstelling
 END:VEVENT
 BEGIN:VEVENT
 UID:86e8cc88d167605c@vrede-ical
-DTSTAMP:20261118T190004Z
+DTSTAMP:20261119T011725Z
 DTSTART:20261119T190000Z
 DTEND:20261119T210000Z
 SUMMARY:The voice of Hind Rajab
@@ -321,7 +321,7 @@ CATEGORIES:Filmvertoning
 END:VEVENT
 BEGIN:VEVENT
 UID:e2f307db83af09db@vrede-ical
-DTSTAMP:20261118T190004Z
+DTSTAMP:20261119T011725Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Youth International Strike
@@ -350,7 +350,7 @@ CATEGORIES:Actie
 END:VEVENT
 BEGIN:VEVENT
 UID:22c66562cbe9f3c6@vrede-ical
-DTSTAMP:20261118T190004Z
+DTSTAMP:20261119T011725Z
 DTSTART:20261120T124500Z
 DTEND:20261120T143000Z
 SUMMARY:Militarisering\, vrede\, de samenleving & jongeren
@@ -372,7 +372,7 @@ LOCATION:Universiteit Antwerpen\, Stadscampus\, S.R. 201\, 2000 Antwerpen\,
 END:VEVENT
 BEGIN:VEVENT
 UID:bbc35dd968927eb7@vrede-ical
-DTSTAMP:20261118T190004Z
+DTSTAMP:20261119T011725Z
 DTSTART:20261120T150000Z
 DTEND:20261120T170000Z
 SUMMARY:Youth Strike in Gent
@@ -390,7 +390,7 @@ CATEGORIES:Actie
 END:VEVENT
 BEGIN:VEVENT
 UID:0654ac6c9c2b8221@vrede-ical
-DTSTAMP:20261118T190004Z
+DTSTAMP:20261119T011725Z
 DTSTART:20261121T210000Z
 DTEND:20261121T220000Z
 SUMMARY:Europa herontdekt de geopolitiek
@@ -415,7 +415,7 @@ CATEGORIES:Panelgesprek
 END:VEVENT
 BEGIN:VEVENT
 UID:3fbcafc1defea996@vrede-ical
-DTSTAMP:20261118T190004Z
+DTSTAMP:20261119T011725Z
 DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
 SUMMARY:Warfare destroys\, welfare protects
@@ -476,7 +476,7 @@ CATEGORIES:Actie
 END:VEVENT
 BEGIN:VEVENT
 UID:4035793aefbd5541@vrede-ical
-DTSTAMP:20261118T190004Z
+DTSTAMP:20261119T011725Z
 DTSTART:20261123T090000Z
 DTEND:20261123T120000Z
 SUMMARY:Nationale vakbondsbetoging
@@ -498,7 +498,7 @@ CATEGORIES:Actie
 END:VEVENT
 BEGIN:VEVENT
 UID:9fce0141a45ce32a@vrede-ical
-DTSTAMP:20261118T190004Z
+DTSTAMP:20261119T011725Z
 DTSTART:20261124T180000Z
 DTEND:20261124T200000Z
 SUMMARY:Vredescafé: Het militair gebruik van AI
@@ -538,7 +538,7 @@ CATEGORIES:Panelgesprek
 END:VEVENT
 BEGIN:VEVENT
 UID:501a2c804837497b@vrede-ical
-DTSTAMP:20261118T190004Z
+DTSTAMP:20261119T011725Z
 DTSTART:20261126T183000Z
 DTEND:20261126T203000Z
 SUMMARY:Lezing over militarisering
@@ -559,7 +559,7 @@ CATEGORIES:Lezing
 END:VEVENT
 BEGIN:VEVENT
 UID:4bdb806a6e4a0df4@vrede-ical
-DTSTAMP:20261118T190004Z
+DTSTAMP:20261119T011725Z
 DTSTART:20261127T090000Z
 DTEND:20261127T110000Z
 SUMMARY:Vuurwerk: In actie tegen de Vlaamse besparingen
@@ -590,7 +590,7 @@ CATEGORIES:Actie
 END:VEVENT
 BEGIN:VEVENT
 UID:d631d7f1b2069356@vrede-ical
-DTSTAMP:20261118T190004Z
+DTSTAMP:20261119T011725Z
 DTSTART:20261129T130000Z
 DTEND:20261129T140000Z
 SUMMARY:Nationale manifestatie voor vrouwenrechten
@@ -608,7 +608,7 @@ CATEGORIES:Actie
 END:VEVENT
 BEGIN:VEVENT
 UID:cc550649b43de82d@vrede-ical
-DTSTAMP:20261118T190004Z
+DTSTAMP:20261119T011725Z
 DTSTART:20261129T140000Z
 DTEND:20261129T160000Z
 SUMMARY:Choose Solidarity: Mensen boven grenzen
@@ -655,30 +655,29 @@ LOCATION:De Roma\, Turnhoutsebaan 286\, 2140 Antwerpen\, België
 CATEGORIES:Evenement
 END:VEVENT
 BEGIN:VEVENT
-UID:c66688b9af0ae13e@vrede-ical
-DTSTAMP:20261118T190004Z
+UID:b72afab721d60deb@vrede-ical
+DTSTAMP:20261119T011725Z
 DTSTART:20261210T090000Z
 DTEND:20261210T100000Z
 SUMMARY:Nationale betoging van de non-profitsector
 DESCRIPTION:Op donderdag 10 december komen werknemers uit de zorg\, welzijn
  ssector\, cultuur en maatwerkbedrijven samen op straat in Brussel. Hun boo
- dschap is duidelijk: investeren in 2029 is te laat! Terwijl de vraag naar 
- zorg en ondersteuning blijft groeien\, kampen organisaties met personeelst
- ekorten\, een hoge werkdruk en nieuwe besparingen. De mensen die elke dag 
- voor anderen zorgen en onze samenleving draaiende houden\, verdienen beter
- . We hebben nood aan investeringen in sterke diensten\, voldoende personee
- l en goede werkomstandigheden. Niet binnen drie jaar\, maar vandaag!\nAfsp
- raak op donderdag 10 december\, om 10u aan Brussel-Noord.\n\nOrganisatie: 
- Nationale non-profitsector en vakbonden\n\nhttps://vrede.be/nl/kalender/na
- tionale-betoging-van-de-non-profitsector-0
+ dschap is duidelijk: pas investeren in 2029 is te laat! Terwijl de vraag n
+ aar zorg en ondersteuning blijft groeien\, kampen organisaties met persone
+ elstekorten\, een hoge werkdruk en nieuwe besparingen. De mensen die elke 
+ dag voor anderen zorgen en onze samenleving draaiende houden\, verdienen b
+ eter. We hebben nood aan investeringen in sterke diensten\, voldoende pers
+ oneel en goede werkomstandigheden. Niet binnen drie jaar\, maar vandaag!\n
+ Afspraak op donderdag 10 december\, om 10u aan Brussel-Noord.\n\nOrganisat
+ ie: Nationale non-profitsector en vakbonden\n\nhttps://vrede.be/nl/kalende
+ r/nationale-betoging-van-de-non-profitsector
 URL:https://vrede.be/nl/kalender/nationale-betoging-van-de-non-profitsector
- -0
 LOCATION:Brussel-Noord\, 1000 Brussel\, België
 CATEGORIES:Actie
 END:VEVENT
 BEGIN:VEVENT
 UID:5ca3fe126c841a5a@vrede-ical
-DTSTAMP:20261118T190004Z
+DTSTAMP:20261119T011725Z
 DTSTART:20261216T190000Z
 DTEND:20261216T210000Z
 SUMMARY:Grenzeloos: Grondrechten in gevaar
@@ -729,7 +728,7 @@ CATEGORIES:Panelgesprek
 END:VEVENT
 BEGIN:VEVENT
 UID:1d73488e09b2133b@vrede-ical
-DTSTAMP:20261118T190004Z
+DTSTAMP:20261119T011725Z
 DTSTART:20261218T190000Z
 DTEND:20261218T210000Z
 SUMMARY:Dr. Strangelove or: How I Learned to Stop Worrying and Love The Bom
@@ -766,7 +765,7 @@ CATEGORIES:Filmvertoning
 END:VEVENT
 BEGIN:VEVENT
 UID:3e9da82ee8925d01@vrede-ical
-DTSTAMP:20261118T190004Z
+DTSTAMP:20261119T011725Z
 DTSTART:20270118T183000Z
 DTEND:20270118T210000Z
 SUMMARY:Tom Sauer over Oekraïne. Een vredesnarratief.
@@ -791,7 +790,7 @@ CATEGORIES:Lezing
 END:VEVENT
 BEGIN:VEVENT
 UID:91f3272b0d0e5276@vrede-ical
-DTSTAMP:20261118T190004Z
+DTSTAMP:20261119T011725Z
 DTSTART:20270123T180000Z
 DTEND:20270123T210000Z
 SUMMARY:Trefdag Vrede vzw 2027
